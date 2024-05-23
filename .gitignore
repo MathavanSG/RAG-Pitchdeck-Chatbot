@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+bark/
+myenv/
+.DS_Store
+=======
+<<<<<<< HEAD
+myenv
+DS_Store
+__pycache__
+.env.env
+=======
+myenv
+>>>>>>> 6fe1e4e (feat: suggestion box, predefined summary, connection between function)
+>>>>>>> 37006d7 (Add .gitignore)
